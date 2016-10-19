@@ -1,5 +1,4 @@
-# api key weather 220714d7dc17cd07403e78b50bff82bb
-# api Currency 1cb513e1122b465aaa53da6026ea8763 
+
 
 import feedparser
 from flask import Flask
